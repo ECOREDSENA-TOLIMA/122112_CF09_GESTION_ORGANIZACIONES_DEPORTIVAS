@@ -9,7 +9,7 @@
       .row
         .col-lg-6.order-lg-2.mb-4.mb-lg-0
           figure.slyder-b__img
-            img(:src='item.imagen', :alt='item.leyendaImagen')
+            img.mx-auto(:src='item.imagen', :alt='item.leyendaImagen' style="max-width: 525px")
             figcaption(v-if="item.leyendaImagen" v-html="item.leyendaImagen")
 
         .col-lg-6.order-lg-1

@@ -69,13 +69,13 @@
 
     .row
       .col-lg-6.col-xl-4.d-flex
-        .tarjeta-avatar-b.mb-5
+        .w-100.tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img.mx-auto(src='@/assets/curso/temas/tema1/img-6.svg' style="max-width: 85px" alt='Imagen decorativa' data-aos="fade-right")
           .tarjeta.py-2.d-flex.align-items-center(style="background-color: #D3D3D3;")
             p.ps-3.fw-bold.mb-0 Promover el alcance de los objetivos de la organización.
       .col-lg-6.col-xl-4.d-flex
-        .tarjeta-avatar-b.mb-5
+        .w-100.tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img.mx-auto(src='@/assets/curso/temas/tema1/img-7.svg' style="max-width: 85px" alt='Imagen decorativa' data-aos="fade-right")
           .tarjeta.py-2.d-flex.align-items-center(style="background-color: #D3D3D3;")
@@ -143,42 +143,42 @@
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img-18.png' alt='Imagen decorativa trabajo en equipo' style="max-width: 177px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-18.png' alt='Imagen decorativa trabajo en equipo' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Trabajo en equipo
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img-19.png' alt='Imagen decorativa personal comprometido' style="max-width: 177px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-19.png' alt='Imagen decorativa personal comprometido' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Personal comprometido
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img-20.png' alt='Imagen decorativa profesionales idóneos para la labor' style="max-width: 177px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-20.png' alt='Imagen decorativa profesionales idóneos para la labor' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Profesionales idóneos para la labor
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img-21.png' alt='Imagen decorativa aprovechamiento de los talentos del personal' style="max-width: 177px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-21.png' alt='Imagen decorativa aprovechamiento de los talentos del personal' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Aprovechamiento de los talentos del personal
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img-22.png' alt='Imagen decorativa conseguir objetivos' style="max-width: 177px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-22.png' alt='Imagen decorativa conseguir objetivos' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Conseguir objetivos
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img-23.png' alt='Imagen decorativa clientes satisfechos' style="max-width: 177px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-23.png' alt='Imagen decorativa clientes satisfechos' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Clientes satisfechos
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img-24.png' alt='Imagen decorativa trabajadores motivados y felices' style="max-width: 177px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-24.png' alt='Imagen decorativa trabajadores motivados y felices' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Trabajadores motivados y felices
       .tarjeta.color-acento-contenido.p-4
         .row.justify-content-center.mb-3
           .col-8
-            img(src='@/assets/curso/temas/tema1/img-25.png' alt='Imagen decorativa crecimiento de la organización' style="max-width: 177px")
+            img.mx-auto(src='@/assets/curso/temas/tema1/img-25.png' alt='Imagen decorativa crecimiento de la organización' style="max-width: 177px")
         p.text-center.fw-bold(style="color: black") Crecimiento de la organización
 
     separador
@@ -228,6 +228,102 @@
       img.col-lg-4.mb-4.mb-lg-auto.mx-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-28.png" style="max-width: 400px" data-aos="fade-left")
 
     p.mb-5(data-aos="fade-right") Este plan debe trabajarse transversalmente, con todas las áreas de la organización. La importancia de este plan estratégico de gestión del talento humano, no solo radica en captar los mejores aspirantes para cubrir las necesidades de cada área de la organización, sino también en buscar los mecanismos para mantener la motivación y el empoderamiento del equipo, asignar roles, resolver los problemas, promover la participación de todo el equipo en la toma decisiones, mejorar las competencias individuales y  la interacción entre todo el equipo. Para la elaboración del plan estratégico, se debe realizar un análisis estratégico previo, teniendo en cuenta los elementos propuestos en la siguiente figura:
+
+    .position-relative.mb-5.d-flex.flex-wrap.align-items-center
+      img.d-none.d-lg-flex.col-8(src="@/assets/curso/temas/tema1/img-29.svg" style="position: absolute; right: 0;" alt="Imagen de corativa")
+      .col-12.col-lg-2.mb-3.position-relative.px-2
+        .card-img-float.mx-auto.mx-xxl-0.py-3.px-2.mt-3(style="background-color: #2D54FE; border-radius: 10px" data-aos="fade-right")
+          p.mb-0.fw-bold(style="color: white") Análisis estratégico 
+      .col-12.col-lg-2.mb-3.position-relative.px-2
+        .card-img-float.mx-auto.mx-xxl-0.py-3.px-2.mt-3(style="background-color: #FFCA00; border-radius: 10px" data-aos="fade-left")
+          p.mb-0.fw-bold Misión de la organización
+        .card-img-float.mx-auto.mx-xxl-0.py-3.px-2.mt-3(style="background-color: #FFCA00; border-radius: 10px" data-aos="fade-right")
+          p.mb-0.fw-bold Análisis interno de la organización
+        .card-img-float.mx-auto.mx-xxl-0.py-3.px-2.mt-3(style="background-color: #FFCA00; border-radius: 10px" data-aos="fade-left")
+          p.mb-0.fw-bold Análisis externo del sector
+      .col-12.col-lg-2.mb-3.position-relative.px-2
+        .card-img-float.mx-auto.mx-xxl-0.py-3.px-2.mt-3(style="background-color: #FE502D; border-radius: 10px" data-aos="fade-right")
+          p.mb-0 Procesos de análisis estratégico
+        .card-img-float.mx-auto.mx-xxl-0.py-3.px-2.mt-3(style="background-color: #FE502D; border-radius: 10px" data-aos="fade-left")
+          p.mb-0 Elaboración de planes estratégicos
+      .col-12.col-lg-2.mb-3.position-relative.px-2
+        .card-img-float.mx-auto.mx-xxl-0.py-3.px-2.mt-3(style="background-color: #FE502D; border-radius: 10px" data-aos="fade-right")
+          p.mb-0 Formulación de objetivos
+        .card-img-float.mx-auto.mx-xxl-0.py-3.px-2.mt-3(style="background-color: #FE502D; border-radius: 10px" data-aos="fade-left")
+          p.mb-0 Implementación de estrategias 
+      .col-12.col-lg-2.mb-3.position-relative.px-2
+        .card-img-float.mx-auto.mx-xxl-0.py-3.px-2.mt-3(style="background-color: #FE502D; border-radius: 10px" data-aos="fade-right")
+          p.mb-0 Formulación de estrategias 
+        .card-img-float.mx-auto.mx-xxl-0.py-3.px-2.mt-3(style="background-color: #FE502D; border-radius: 10px" data-aos="fade-left")
+          p.mb-0 Control <br class="d-none d-lg-flex"/>estratégico 
+    
+    p.mb-5(data-aos="fade-right") Se deben tener en cuenta los siguientes pasos para la planeación de la estrategia en la gestión de recursos humanos:
+
+    .container-100.py-5.mb-5(
+      :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-2.svg')})`}"
+      style="background-repeat: no-repeat; background-position: bottom center; background-size: 100% auto;"
+    )
+      ImagenInfografica.color-secundario.mb-5.pb-5(data-aos="fade-left")
+        template(v-slot:imagen)
+          figure
+            img(src='@/assets/curso/temas/tema1/img-30.svg', alt='Imagen decorativa')
+        
+        .tarjeta.color-secundario.p-3(x="7%" y="57%" numero="+" style="background-color: #F6F6F6")
+          p.fw-bold Organigrama de la organización
+          p.mb-0 Tener de forma gráfica los niveles jerárquicos de la organización, con la descripción de puestos de trabajo, tareas, funciones y cantidad de personal por área.
+        .tarjeta.color-secundario.p-3(x="24%" y="57%" numero="+" style="background-color: #F6F6F6")
+          p.fw-bold Perfil del equipo directivo
+          p.mb-0 Determinar perfil, el cual incluye, experiencia laboral, formación académica, logros y funciones.
+        .tarjeta.color-secundario.p-3(x="41%" y="57%" numero="+" style="background-color: #F6F6F6")
+          p.fw-bold Perfiles sugeridos
+          p.mb-0 Definir las tareas fundamentales para cada puesto de trabajo, funciones y horas requeridas, para tener un estimado de puestos de trabajo requeridos.
+        .tarjeta.color-secundario.p-3(x="57.5%" y="57%" numero="+" style="background-color: #F6F6F6")
+          p.fw-bold Establecer las políticas
+          p.mb-0 Especificar la política de reclutamiento, tablas de remuneración, lineamientos para medir el desempeño, y el cronograma operativo.
+        .tarjeta.color-secundario.p-3(x="74.5%" y="57%" numero="+" style="background-color: #F6F6F6")
+          p.fw-bold Políticas operativas
+          p.mb-0 Acá se establecen las normas de funcionamiento y comportamiento de la organización, los manuales que se entregan al trabajador, donde están establecidos horarios, normas disciplinarias, políticas de promoción, salarios, vacaciones, entre otros.
+        .tarjeta.color-secundario.p-3(x="91.5%" y="57%" numero="+" style="background-color: #F6F6F6")
+          p.fw-bold Desarrollo del equipo de trabajo
+          p.mb-0 Son todas las acciones encaminadas a mejorar el equipo de trabajo mediante la motivación y el empoderamiento de sus colaboradores, mejorar las habilidades individuales e interpersonales y las competencias del equipo de trabajo.
+    separador
+    #t_1_5.titulo-segundo.color-acento-botones
+      h2 1.5. Construcción del plan de acción y cronograma de gestión del talento humano
+    
+    p.mb-5(data-aos="fade-right") El plan de acción es un instrumento para la ejecución y el control de un procedimiento o proyecto, con el cual se verifica el cumplimiento de las acciones propuestas para ello. La finalidad del plan de acción es poder cumplir los objetivos. Para la construcción del plan de acción y el cronograma de gestión del talento humano se deben tener en cuenta los objetivos de proceso de la organización, los cuales deben ser orientados hacia el cumplimiento de los objetivos y normativa de la empresa o institución. De acuerdo con lo anterior, se debe tener en cuenta:
+    
+    .d-flex.flex-wrap.mb-5.align-items-start
+      .col-lg-8.pe-lg-4.order-2.order-lg-1(data-aos="fade-right")
+        ul.lista-ul--color.lista-ul--separador
+          li.d-flex.mb-2.pb-2.align-items-start
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            p.ps-2.mb-0(data-aos="fade-left") <b>Objetivos:</b> define las metas específicas que se desea alcanzar.
+          li.d-flex.mb-2.pb-2.align-items-start
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            p.ps-2.mb-0(data-aos="fade-left") <b>Estrategias:</b> son el conjunto de acciones determinadas para alcanzar un objetivo específico.
+          li.d-flex.mb-2.pb-2.align-items-start
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            p.ps-2.mb-0(data-aos="fade-left") <b>Proyectos:</b> son un conjunto ordenado de actividades que tienen el fin de satisfacer las necesidades o resolver problemas específicos.
+          li.d-flex.mb-2.pb-2.align-items-start
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            p.ps-2.mb-0(data-aos="fade-left") <b>Metas:</b> son el fin o el deseo de la organización, es adonde se desea llegar.
+          li.d-flex.mb-2.pb-2.align-items-start
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            p.ps-2.mb-0(data-aos="fade-left") <b>Fechas:</b> la duración, desde el inicio hasta el final.
+          li.d-flex.mb-2.pb-2.align-items-start
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            p.ps-2.mb-0(data-aos="fade-left") <b>Responsables:</b> asigna y distribuye las tareas y responsables de las actividades.
+          li.d-flex.mb-2.pb-2.align-items-start
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            p.ps-2.mb-0(data-aos="fade-left") <b>Recursos financieros:</b>  determina los recursos económicos necesarios para la implementación de las actividades propuestas.
+          li.d-flex.mb-2.pb-2.align-items-start
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            p.ps-2.mb-0(data-aos="fade-left") <b>Indicadores de gestión:</b> se usan para el seguimiento y evaluación del proceso, así como para la toma de decisiones.
+          li.d-flex.mb-2.pb-2.align-items-start
+            img.mt-1(src="@/assets/curso/temas/decorador-ul.svg" style="max-width: 8px" data-aos="fade-right")
+            p.ps-2.mb-0(data-aos="fade-left") <b>Ajustes:</b> son los cambios o correcciones identificadas en el proceso.
+      img.col-lg-4.mb-4.mb-lg-auto.mx-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-31.png" style="max-width: 400px" data-aos="fade-left")
+    p.mb-0(data-aos="fade-right") A partir de los elementos anteriores, se construye una matriz, donde se describe cada uno de ellos; según las políticas de gestión de cada organización, los elementos pueden variar. Sin duda, los planes de acción son una herramienta muy importante en la gestión del talento humano, puesto que son de gran utilidad en la coordinación y cohesión de un grupo de personas, procuran el alcanzar las metas de manera conjunta, optimizan la gestión de proyectos, economizan tiempo y esfuerzo, mejorando la productividad y, en consecuencia, el logro de los objetivos propuestos.
 </template>
 
 <script>
