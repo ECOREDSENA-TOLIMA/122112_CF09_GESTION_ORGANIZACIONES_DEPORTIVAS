@@ -22,15 +22,15 @@
 
     .d-flex.flex-wrap.mb-5
       .card-img-float.mx-auto.mx-xxl-0(style="background-color: #2D54FE" data-aos="fade-right")
-        img(src="@/assets/curso/temas/tema1/img-2.svg" class="img-float" alt="imagen decorativa")
+        img.img-float(src="@/assets/curso/temas/tema1/img-2.svg" alt="imagen decorativa")
         p.fw-bold(style="color: white") Talento humano
         p.mb-0(style="color: white") Se enfoca a atraer y retener a los colaboradores, el talento humano fomenta que debe ser practicado en todos los niveles de la organización.
       .card-img-float.mx-auto(style="background-color: #FFCA00" data-aos="flip-up")
-        img(src="@/assets/curso/temas/tema1/img-3.svg" class="img-float" alt="imagen decorativa")
+        img.img-float(src="@/assets/curso/temas/tema1/img-3.svg" alt="imagen decorativa")
         p.fw-bold Recurso humano
         p.mb-0 Sus principios fueron: estudiar las empresas en su totalidad teniendo en cuenta sus relaciones y funciones, promover la organización lineal, trabajar más en los niveles administrativos. Un sistema de talento humano es la estrategia de los negocios que requieren incorporar y ejecutar en los procesos diarios a través de toda la empresa. 
       .card-img-float.mx-auto.mx-xxl-0(style="background-color: #FE502D" data-aos="fade-left")
-        img(src="@/assets/curso/temas/tema1/img-4.svg" class="img-float" alt="imagen decorativa")
+        img.img-float(src="@/assets/curso/temas/tema1/img-4.svg" alt="imagen decorativa")
         p.fw-bold Capital humano
         p.mb-0 Es uno de los elementos para alcanzar el crecimiento económico, competitivo, educativo, tecnológico y productivo con base en estudios empíricos, permite a su vez contribuir el desarrollo profesional relacionado al crecimiento económico de la organización;
 
