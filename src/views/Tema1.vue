@@ -192,7 +192,7 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             p.mb-0 La planificación de los recursos humanos es un proceso que sigue una organización, con el fin de asegurarse de que tiene el número y perfil adecuado de las personas para desempeñar asignaciones y tareas determinadas con respecto a las necesidades de esta.
-      img.col-lg-8.mb-4.mb-lg-auto.mx-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-26.svg" style="max-width: 840px" data-aos="fade-left" alt="Imagen decorativa")
+      img.col-lg-8.mb-4.mb-lg-auto.mx-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-26.svg" style="max-width: 840px" data-aos="fade-left" alt="Mapa que representa la planeación estratégica dirigida a la planeación de gestión del talento humano, donde se desarrolla: Proceso de contratación, Fuerza laboral, Desarrollo de la carrera profesional, Evolución del rendimiento, redistribuciones y gestión de la ruptura laboral")
 
     p.mb-5(data-aos="fade-right") El propósito del plan estratégico de gestión del talento humano es establecer una línea estratégica en la organización, con la secuencia de acciones, tiempo, y recursos para el desarrollo de planes y programas, enfocado en los objetivos de la organización. La estrategia define el comportamiento de la organización, la cual está condicionada por la misión, la visión, las metas y los objetivos de la organización. La planeación estratégica de la gestión del talento humano debe ser la parte integrante de la planeación y organización de las empresas.
 
@@ -201,7 +201,7 @@
       style="background-repeat: no-repeat; background-position: top center; background-size: 100% auto;"
     )
       h4.text-center Planeación estratégica 
-      img.mx-auto.py-3(src="@/assets/curso/temas/tema1/img-27.svg" alt="Imagen decorativa" style="max-width: 863px" data-aos="fade-left")
+      img.mx-auto.py-3(src="@/assets/curso/temas/tema1/img-27.svg" alt="Muestra el camino de la planeación estratégica, empieza desde el estado actual de la empresa, continua la elaboración de metas y objetivos, luego elaborar la misión y Visión, hasta llegar a la proyección de la organización a 5 años" style="max-width: 863px" data-aos="fade-left")
 
     p(data-aos="fade-right") Esta planeación estratégica muestra el camino; el talento humano sería el motor de las organizaciones, por lo tanto, se deben diseñar nuevos modelos de gestión que permitan potenciar el talento humano, provocando necesidades de aprendizaje continuo, donde los individuos tengan el deseo y la necesidad de desarrollar todo su potencial, teniendo como reto incorporar y mantener buenos empleados.
 

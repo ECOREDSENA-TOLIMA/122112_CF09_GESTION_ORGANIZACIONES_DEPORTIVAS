@@ -153,12 +153,12 @@
 
     img.d-none.d-lg-flex.mx-auto.mb-5(
       src="@/assets/curso/temas/tema2/img-13.svg"
-      alt="Imagen decorativa"
+      alt="Muestra diagrama de la remuneración total descrita en la parte inferior de la imagen"
       data-aos="fade-right"
     )
     img.d-flex.d-lg-none.mx-auto.mb-5(
       src="@/assets/curso/temas/tema2/img-13_2.svg"
-      alt="Imagen decorativa"
+      alt="Muestra diagrama de la remuneración total descrita en la parte inferior de la imagen"
       data-aos="fade-right"
     )
 
@@ -416,7 +416,7 @@
 
     p.mb-5(data-aos="fade-right") Se recomienda que se apliquen las evaluaciones de desempeño como mínimo cuatro veces en el año, para poder hacer un seguimiento real. Los líderes del área de gestión de talento humano, en conjunto con los jefes de área, serán quienes se encarguen de evaluar a los colaboradores.
 
-    img(src="@/assets/curso/temas/tema2/img-38.svg" data-aos="fade-right")
+    img(src="@/assets/curso/temas/tema2/img-38.svg" data-aos="fade-right" alt="Diagrama muestra la gestión de desempeño, relacionada en la parte inferior de la imagen")
 
 </template>
 

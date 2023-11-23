@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.svg", alt="Muestra la síntesis de elementos conceptuales de la gestión de talento humano en organizaciones deportivas, la cual permite que elementos  conceptuales, técnicas de gestión del personal, y la gestión de talento humano se centren en atraer, motivar, desarrollar, supervisar y retener al personal, mientras se adapta estratégicamente a las necesidades de la organización")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
