@@ -34,7 +34,7 @@
         p.fw-bold Capital humano
         p.mb-0 Es uno de los elementos para alcanzar el crecimiento económico, competitivo, educativo, tecnológico y productivo con base en estudios empíricos, permite a su vez contribuir el desarrollo profesional relacionado al crecimiento económico de la organización;
 
-    p.mb-5(data-aos="fade-right") En conclusión, el Recurso Humano es un enfoque a niveles operativos a comparación del Talento Humano que es buscar y potencializar el talento nato y no nato de las personas y el Capital Humano que parte como un principio de medición en base al estudio y evolución de la Gestión humana y su entorno.
+    p.mb-5(data-aos="fade-right") En conclusión, el recurso humano es un enfoque a niveles operativos a comparación del talento humano que es buscar y potencializar el talento nato y no nato de las personas y el capital humano que parte como un principio de medición en base al estudio y evolución de la gestión humana y su entorno.
 
     separador
     #t_1_2.titulo-segundo.color-acento-botones
@@ -43,7 +43,7 @@
     .d-flex.flex-wrap.mb-5.align-items-start
       .col-lg-8.pe-lg-4.order-2.order-lg-1(data-aos="fade-right")
         p La gestión del talento humano dentro de una organización, anteriormente, estaba enfocada en funciones como contratación, nómina y beneficios. Hoy en día, se reconoce como el conjunto integrado de procesos de la organización diseñados para atraer, gestionar, desarrollar, motivar y retener colaboradores.
-        p Mondy, en el 2005, define la administración o gestión del talento humano como la utilización de las personas como recursos, para lograr los objetivos organizacionales y estratégicos. Según Mondy, existirían menos jerarquías y órdenes; también señala la importancia de la participación activa de los trabajadores, pues estos se convierten en un aliado estratégico, de allí parte la importancia de tener la gestión de talento humano en una organización.
+        p Mondy (2005), define la administración o gestión del talento humano como la utilización de las personas como recursos, para lograr los objetivos organizacionales y estratégicos. Según Mondy (2005), existirían menos jerarquías y órdenes; también señala la importancia de la participación activa de los trabajadores, pues estos se convierten en un aliado estratégico, de allí parte la importancia de tener la gestión de talento humano en una organización.
         p Existen muchas ventajas en cuanto a lo que se refiere a la administración del talento humano en las organizaciones, entre las más importantes:
         ul.lista-ul--color.lista-ul--separador
           li.d-flex.mb-2.pb-2.align-items-start
@@ -200,7 +200,9 @@
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-1.svg')})`}"
       style="background-repeat: no-repeat; background-position: top center; background-size: 100% auto;"
     )
-      h4.text-center Planeación estratégica 
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+        h5 Figura 2.
+        i Planeación estratégica 
       img.mx-auto.py-3(src="@/assets/curso/temas/tema1/img-27.svg" alt="Muestra el camino de la planeación estratégica, empieza desde el estado actual de la empresa, continua la elaboración de metas y objetivos, luego elaborar la misión y Visión, hasta llegar a la proyección de la organización a 5 años" style="max-width: 863px" data-aos="fade-left")
 
     p(data-aos="fade-right") Esta planeación estratégica muestra el camino; el talento humano sería el motor de las organizaciones, por lo tanto, se deben diseñar nuevos modelos de gestión que permitan potenciar el talento humano, provocando necesidades de aprendizaje continuo, donde los individuos tengan el deseo y la necesidad de desarrollar todo su potencial, teniendo como reto incorporar y mantener buenos empleados.

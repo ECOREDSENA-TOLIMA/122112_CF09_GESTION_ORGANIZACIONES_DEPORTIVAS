@@ -204,7 +204,7 @@
               img(src="@/assets/curso/temas/tema2/img-18.jpg", alt="Imagen decorativa prestaciones")
           .text-white.crd_hover_txt--body(style="background-color: #2D54FE")
             h4.mb-3.text-center Prestaciones
-            p.mb-0.text-center pueden ser los beneficios extras, como seguros de salud o de vida, también pueden ser dineros que se reciben anualmente.
+            p.mb-0.text-center Pueden ser los beneficios extras, como seguros de salud o de vida, también pueden ser dineros que se reciben anualmente.
 
     separador
     #t_2_3.titulo-segundo.color-acento-botones
@@ -225,7 +225,7 @@
       .py-4.py-md-5(titulo="Prima de servicios" :icono="require('@/assets/curso/temas/tema2/icon-1.svg')" style="background-color: #FFFAE5")
         .row.col-xl-10.mx-auto
           .col-md-6.col-lg-7.mb-4.mb-md-0.order-2.order-md-1
-            h4(style="color: #2D54FE") Artículo 306 del código sustantivo del trabajo
+            h4(style="color: #2D54FE") Artículo 306 del Código Sustantivo del Trabajo
             p El empleador está obligado a pagar a su empleado o empleados la prestación social denominada prima de servicios, que corresponderá a 30 días de salario por año, la cual se reconocerá en dos pagos, así: la mitad, máximo el 30 de junio, y la otra mitad, a más tardar los primeros veinte días de diciembre.
 
           .col-md-6.col-lg-5.order-1.order-md-2.mb-4.mb-lg-auto
@@ -235,7 +235,7 @@
       .py-4.py-md-5(titulo="Auxilio de cesantías" :icono="require('@/assets/curso/temas/tema2/icon-2.svg')" style="background-color: #FFFAE5")
         .row.col-xl-10.mx-auto
           .col-md-6.col-lg-7.mb-4.mb-md-0.order-2.order-md-1
-            h4(style="color: #2D54FE") Artículo 249 del código sustantivo del trabajo
+            h4(style="color: #2D54FE") Artículo 249 del Código Sustantivo del Trabajo
             p Todo empleador está obligado a pagar a sus trabajadores y a las demás personas que se indican en este Capítulo, al terminar el contrato de trabajo, como auxilio de cesantía, un mes de salario por cada año de servicios y proporcionalmente por fracción de año.
 
           .col-md-6.col-lg-5.order-1.order-md-2.mb-4.mb-lg-auto
@@ -252,7 +252,7 @@
                 p.ps-2.mb-0(data-aos="fade-left") El 31 de diciembre de cada año se hará la liquidación definitiva de cesantía, por la anualidad o por la fracción correspondiente, sin perjuicio de la que deba efectuarse en fecha diferente por la terminación del contrato de trabajo.
               li.d-flex.mb-2.pb-2.align-items-start
                 p.fw-bold.mb-0(style="color: #FE502D") 2ª.
-                p.ps-2.mb-0(data-aos="fade-left") El empleador cancelará al trabajador los intereses legales del 12% anual o proporcionales por fracción, en los términos de las normas vigentes sobre el régimen tradicional de cesantía, con respecto a la suma causada en el año o en la fracción que se liquide definitivamente.
+                p.ps-2.mb-0(data-aos="fade-left") El empleador cancelará al trabajador los intereses legales del 12 % anual o proporcionales por fracción, en los términos de las normas vigentes sobre el régimen tradicional de cesantía, con respecto a la suma causada en el año o en la fracción que se liquide definitivamente.
 
           .col-md-6.col-lg-5.order-1.order-md-2.mb-4.mb-lg-auto
             figure
@@ -261,7 +261,7 @@
       .py-4.py-md-5(titulo="La dotación" :icono="require('@/assets/curso/temas/tema2/icon-4.svg')" style="background-color: #FFFAE5")
         .row.col-xl-10.mx-auto
           .col-md-6.col-lg-7.mb-4.mb-md-0.order-2.order-md-1
-            h4(style="color: #2D54FE") Artículo 230 del código sustantivo del trabajo
+            h4(style="color: #2D54FE") Artículo 230 del Código Sustantivo del Trabajo
             p Todo empleador que habitualmente ocupe uno (1) o más trabajadores permanentes deberá suministrar cada cuatro (4) meses, en forma gratuita, un (1) par de zapatos y un (1) vestido de labor al trabajador cuya remuneración mensual sea hasta dos (2) veces el salario mínimo más alto vigente.  Tiene derecho a esta prestación el trabajador que en las fechas de entrega de calzado y vestido haya cumplido más de tres (3) meses al servicio del empleador.
 
           .col-md-6.col-lg-5.order-1.order-md-2.mb-4.mb-lg-auto

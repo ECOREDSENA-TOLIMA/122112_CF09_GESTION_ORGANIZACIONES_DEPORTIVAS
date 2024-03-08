@@ -35,27 +35,27 @@
     p.mb-5(data-aos="fade-right") En la gestión del talento humano, existen cinco puntos para la implementación de una estrategia, teniendo en cuenta que estos son puntos transversales, que se adaptan a las diferentes estrategias implementadas por la organización:
 
     .d-flex.flex-wrap.mb-5
-      .col-md-6.col-xl.mb-4.mb-xl-0.d-flex
+      .col-xxl.col-lg-4.col-md-6.mb-xxl-0.mb-4.d-flex
         .tarjeta-numerada.color-primario.ps-5.py-4.pe-3
           .tarjeta-numerada__numero.text-white
             .h2 1
           p.mb-0(data-aos="fade-left") <b>Descubrir el talento:</b> este es un trabajo que se desarrolla con los jefes de área y el área de gestión de talento humano. En los equipos de trabajo, siempre se encuentran talentos ocultos.
-      .col-md-6.col-xl.mb-4.mb-xl-0.d-flex
+      .col-xxl.col-lg-4.col-md-6.mb-xxl-0.mb-4.d-flex
         .tarjeta-numerada.color-acento-botones.ps-5.py-4.pe-3
           .tarjeta-numerada__numero
             .h2 2
           p.mb-0(data-aos="fade-left") <b>Utilizar el talento adecuadamente:</b> una vez detectado el talento, es muy importante ubicar al trabajador en el nivel jerárquico y con las funciones adecuadas.
-      .col-md-6.col-xl.mb-4.mb-xl-0.d-flex
+      .col-xxl.col-lg-4.col-md-6.mb-xxl-0.mb-4.d-flex
         .tarjeta-numerada.color-acento-contenido.ps-5.py-4.pe-3
           .tarjeta-numerada__numero
             .h2(style="color: black") 3
           p.mb-0(data-aos="fade-left") <b>Motivar y retener el talento:</b> es fundamental retener a los talentos a través de incentivos salariales, de bienestar personal y familiar, o de desarrollo profesional a través de las capacitaciones.
-      .col-md-6.col-xl.mb-4.mb-xl-0.d-flex
+      .col-xxl.col-lg-4.col-md-6.mb-xxl-0.mb-4.d-flex
         .tarjeta-numerada.color-acento-botones.ps-5.py-4.pe-3
           .tarjeta-numerada__numero
             .h2 4
           p.mb-0(data-aos="fade-left") <b>Crear nuevos talentos:</b> mantener integrado al personal nuevo dentro de retos y actividades que permitan la creación de nuevos talentos, de acuerdo con las necesidades y cambios de la organización.
-      .col-md-6.col-xl.mb-4.mb-xl-0.d-flex
+      .col-xxl.col-lg-4.col-md-6.mb-xxl-0.mb-4.d-flex
         .tarjeta-numerada.color-primario.ps-5.py-4.pe-3
           .tarjeta-numerada__numero.text-white
             .h2 5
@@ -65,7 +65,7 @@
       .col-lg-8.pe-lg-4.order-2.order-lg-1(data-aos="fade-right")
         p En conclusión, para detectar las necesidades del talento humano, se debe establecer un proceso, de acuerdo con la estrategia, la misión, la visión y los objetivos organizacionales. Para esto, la planeación estratégica permite diseñar acciones encaminadas al cumplimiento de los objetivos estratégicos dentro del área de gestión del talento humano, al generar una estrategia para el cumplimiento de dichos objetivos. Al realizar el análisis interno y externo de la organización, se pueden observar las necesidades que surgen. La planeación estratégica es una forma efectiva de identificar las necesidades del personal de la organización; todas las personas que participan en el diseño de la planificación estratégica quieren que su área, en particular, sea más eficiente, y por ende, buscan los mejores talentos para que lideren sus actividades y proyectos. Es allí, precisamente, donde se pueden identificar plenamente las necesidades de personal.
 
-        p.mb-0 Se tiene claro que planear los recursos humanos significa aunar esfuerzos y elaborar planes estratégicos que involucren a todos los miembros que hacen parte de la organización. Para reconocer esto, podrá visualizarlo en el próximo recurso.
+        p.mb-0 Se tiene claro que planear los recursos humanos significa aunar esfuerzos y elaborar planes estratégicos que involucren a todos los miembros que hacen parte de la organización. Para reconocer esto, podrá analizarlo en el próximo recurso.
       img.col-lg-4.mb-4.mb-lg-auto.mx-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema3/img-3.png" style="max-width: 400px" data-aos="fade-left")
 
     .d-flex.flex-wrap
