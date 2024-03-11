@@ -151,14 +151,17 @@
         p Los incentivos y la remuneración de las personas tienen una relación directamente proporcional con el desempeño de las funciones. Los métodos más tradicionales son: el escalafón simple, las categorías previamente determinadas, la evaluación con puntos, etc. Este factor es la principal motivación para la eficiencia de los empleados, por lo cual se convierte en un punto estratégico de la organización; este factor, sin duda, repercute en el cumplimiento de los objetivos de la organización y, por ende, en la misión de la empresa.
         p.mb-0 Es necesario determinar las remuneraciones idóneas para la organización. Este término de remuneración se puede confundir con el sueldo mes a mes, pero se refiere, más bien, a la compensación en forma de incentivos, formación, capacitación, o beneficios no económicos. La remuneración total es un componente que utilizan muchas organizaciones, existen tres componentes de la remuneración total:
 
+    .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+      h5 Figura 4.
+      i Remuneración total
     img.d-none.d-lg-flex.mx-auto.mb-5(
       src="@/assets/curso/temas/tema2/img-13.svg"
-      alt="Muestra diagrama de la remuneración total descrita en la parte inferior de la imagen"
+      alt="En la Figura 4 se muestran los tres tipos de remuneración que se pueden aplicar en una organización, como son: la remuneración básica, los incentivos salariales y los beneficios, junto con la forma de implementarlos."
       data-aos="fade-right"
     )
     img.d-flex.d-lg-none.mx-auto.mb-5(
       src="@/assets/curso/temas/tema2/img-13_2.svg"
-      alt="Muestra diagrama de la remuneración total descrita en la parte inferior de la imagen"
+      alt="En la Figura 4 se muestran los tres tipos de remuneración que se pueden aplicar en una organización, como son: la remuneración básica, los incentivos salariales y los beneficios, junto con la forma de implementarlos."
       data-aos="fade-right"
     )
 
@@ -344,8 +347,32 @@
     .container-100.py-4.mb-5(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-2.svg')})`}"
       style="background-repeat: no-repeat; background-position: bottom center; background-size: 100% auto;"
-    )
-      img.mx-auto.py-3.mb-5(src="@/assets/curso/temas/tema2/img-30.png" alt="Imagen decorativa" style="max-width: 1030px" data-aos="fade-left")
+    ) 
+      .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+        h5 Figura 5.
+        i Herramientas utilizadas en la gestión del conocimiento organizacional
+      .row.justify-content-center.mb-5
+        .col-lg.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
+          figure.mb-3
+            img.mx-auto(src='@/assets/curso/temas/tema2/img01.png' alt="Imagen decorativa")
+          h5.text-center.mb-0 Educación corporativa
+        .col-lg.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-right")
+          figure.mb-3
+            img.mx-auto(src='@/assets/curso/temas/tema2/img02.png' alt="Imagen decorativa")
+          h5.text-center.mb-0 Gestión de habilidades
+        .col-lg.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-up")
+          figure.mb-3
+            img.mx-auto(src='@/assets/curso/temas/tema2/img03.png' alt="Imagen decorativa")
+          h5.text-center.mb-0 Gestión de información
+        .col-lg.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="flip-left")
+          figure.mb-3
+            img.mx-auto(src='@/assets/curso/temas/tema2/img04.png' alt="Imagen decorativa")
+          h5.text-center.mb-0 Aprendizaje en la organización
+        .col-lg.col-sm-6.col-10.mb-lg-0.mb-4(data-aos="fade-left")
+          figure.mb-3
+            img.mx-auto(src='@/assets/curso/temas/tema2/img05.png' alt="Imagen decorativa")
+          h5.text-center.mb-0 Inteligencia cooperativa
+
       p La aplicación de la gestión del conocimiento es importante para cualquier tipo de organización, permite emplear las mejores estrategias y soluciones, lo que resulta en una mejora en la eficiencia y en la productividad.
 
     separador
@@ -373,13 +400,13 @@
       .col-lg-6.col-xl-3.px-2.d-flex
         .mb-5.position-relative.tarjeta.p-4(style="background-color: #D5DDFF; margin-top: 16rem;")
           img.mb-3.mx-auto.position-absolute(src="@/assets/curso/temas/tema2/img-32.svg" style="max-width: 150px; top: -274px; left: calc(50% - 75px)" data-aos="fade-left")
-          h4.text-center(data-aos="fade-right") Sistema de calidad
-          p.mb-0.text-center(data-aos="fade-right" style="font-size: 14px") Es el que garantiza los estándares de calidad, en cuanto a productos y servicios de la organización. En este sistema, aplica la norma ISO 901 de 2015.
+          h4.text-center(data-aos="fade-right") Sistema de gestión de la calidad
+          p.mb-0.text-center(data-aos="fade-right" style="font-size: 14px") Es el que garantiza los estándares de calidad, en cuanto a productos y servicios de la organización. En este sistema, aplica la norma ISO 9001 de 2015.
       .col-lg-6.col-xl-3.px-2.d-flex
         .mb-5.position-relative.tarjeta.p-4(style="background-color: #FFDCD5; margin-top: 16rem;")
           img.mb-3.mx-auto.position-absolute(src="@/assets/curso/temas/tema2/img-33.svg" style="max-width: 150px; top: -274px; left: calc(50% - 75px)" data-aos="fade-left")
           h4.text-center(data-aos="fade-right") Sistema de seguridad y salud en el trabajo
-          p.mb-0.text-center(data-aos="fade-right" style="font-size: 14px") Se ocupa de la prevención de riesgos laborales. Se trata de un conjunto de medidas para el bienestar físico, mental y social del trabajador. Para este sistema, aplican las normas: ISO 45001: 2018, OHSAS 18000.
+          p.mb-0.text-center(data-aos="fade-right" style="font-size: 14px") Se ocupa de la prevención de riesgos laborales. Se trata de un conjunto de medidas para el bienestar físico, mental y social del trabajador. Para este sistema, aplican las normas: ISO 45001:2018, OHSAS 18000.
       .col-lg-6.col-xl-3.px-2.d-flex
         .mb-5.position-relative.tarjeta.p-4(style="background-color: #FFF5CC; margin-top: 16rem;")
           img.mb-3.mx-auto.position-absolute(src="@/assets/curso/temas/tema2/img-34.svg" style="max-width: 150px; top: -274px; left: calc(50% - 75px)" data-aos="fade-left")
@@ -416,7 +443,10 @@
 
     p.mb-5(data-aos="fade-right") Se recomienda que se apliquen las evaluaciones de desempeño como mínimo cuatro veces en el año, para poder hacer un seguimiento real. Los líderes del área de gestión de talento humano, en conjunto con los jefes de área, serán quienes se encarguen de evaluar a los colaboradores.
 
-    img(src="@/assets/curso/temas/tema2/img-38.svg" data-aos="fade-right" alt="Diagrama muestra la gestión de desempeño, relacionada en la parte inferior de la imagen")
+    .titulo-sexto.color-acento-contenido(data-aos="fade-right")
+      h5 Figura 6.
+      i Gestión del desempeño
+    img(src="@/assets/curso/temas/tema2/img-38.svg" data-aos="fade-right" alt="En la Figura 6 se presenta la gestión del desempeño, donde se establecen las funciones y se lleva a cabo la evaluación funcional y comportamental.")
 
 </template>
 

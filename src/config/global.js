@@ -178,7 +178,7 @@ export default {
     {
       tema: 'Ejecución de un programa de evaluación de desempeño',
       referencia:
-        'Malzoni, E. (2018). <em>Evaluación de desempeño: qué es y cómo funciona</em>. Qulture rocks.',
+        'Araujo, R. (2021). <em>Calibración en la Evaluación de Desempeño.</em>',
       tipo: 'Página web',
       link:
         'https://qulture.rocks/es/blog/evaluacion-de-desempeno-como-funciona/',
@@ -215,7 +215,6 @@ export default {
     {
       referencia:
         'Chang, R. (1994). Mejora continua de procesos. Ediciones Granica.',
-      link: '',
     },
     {
       referencia:
@@ -226,13 +225,20 @@ export default {
     {
       referencia:
         'Código Sustantivo del Trabajo [CST]. Ley 141 de 1961. Artículos, 99, 230, 249, 306. Diciembre 16 de 1961 (Colombia).',
-      link: '',
     },
     {
       referencia:
         'Mendoza, D., López, D. y Salas, E. (2016). Planificación estratégica de recursos humanos: Efectiva forma de identificar necesidades de personal. <em>Económicas CUC</em>, 37(1), p. 61-78.',
       link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=5794127',
     },
+
+    {
+      referencia:
+        'Mondy, R. W. (2055). Administración de Recursos Humanos. Recuperado de.',
+      link:
+        'https://www.academia.edu/36515923/Mondy_administracion_de_recursos_humanos_capitulo',
+    },
+
     {
       referencia:
         'Norma Internacional [ISO]. (2015). <em>Sistemas de gestión ambiental — Requisitos con orientación para su uso</em> (ISO 14001). ',
@@ -246,9 +252,8 @@ export default {
         'https://ergosourcing.com.co/wp-content/uploads/2018/05/iso-45001-norma-Internacional.pdf',
     },
     {
-      referencia:
-        'Organización Internacional de Normalización [ISO]. (2019). <em>Human resource management — Guidelines for internal and external human capital reporting</em> (ISO 30414). ',
-      link: 'https://www.sis.se/api/document/preview/80008831/',
+      referencia: 'NormasIso.org. (s.f.). Norma ISO 30414:2018. Recuperado de',
+      link: 'https://normasiso.org/iso-30414-2018/ ',
     },
     {
       referencia:
@@ -259,12 +264,10 @@ export default {
     {
       referencia:
         'Taylor, B. y Harrison, J. (1991). Planeación estratégica exitosa. Legis Editores.',
-      link: '',
     },
     {
       referencia:
         'Wayne, R. (2010). Administración de recursos humanos. Pearson Educación.',
-      link: '',
     },
   ],
   creditos: [
