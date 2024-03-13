@@ -32,7 +32,7 @@
       .card-img-float.mx-auto.mx-xxl-0(style="background-color: #FE502D" data-aos="fade-left")
         img.img-float(src="@/assets/curso/temas/tema1/img-4.svg" alt="imagen decorativa")
         p.fw-bold Capital humano
-        p.mb-0 Es uno de los elementos para alcanzar el crecimiento económico, competitivo, educativo, tecnológico y productivo con base en estudios empíricos, permite a su vez contribuir el desarrollo profesional relacionado al crecimiento económico de la organización;
+        p.mb-0 Es uno de los elementos para alcanzar el crecimiento económico, competitivo, educativo, tecnológico y productivo con base en estudios empíricos, permite a su vez contribuir el desarrollo profesional relacionado al crecimiento económico de la organización.
 
     p.mb-5(data-aos="fade-right") En conclusión, el recurso humano es un enfoque a niveles operativos a comparación del talento humano que es buscar y potencializar el talento nato y no nato de las personas y el capital humano que parte como un principio de medición en base al estudio y evolución de la gestión humana y su entorno.
 

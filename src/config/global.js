@@ -275,9 +275,14 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del Ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
+        },
+        {
+          nombre: 'Liliana Victoria Morales Gualdrón',
+          cargo: 'Responsable de Línea de Producción',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -304,34 +309,31 @@ export default {
           cargo: 'Corrección de estilo',
           centro: 'Regional Tolima - Centro Agropecuario La Granja',
         },
+        {
+          nombre: 'Viviana Esperanza Herrera Quiñonez',
+          cargo: 'Evaluación instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'José Jaime Luis Tang Pinzón',
+          cargo: 'Diseñador web',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Fullstack',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'Diego Fernando Velasco Güiza',
+          cargo: 'Desarrollo Fullstack ',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animación y producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -339,22 +341,19 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: '',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'Javier Mauricio Oviedo',
+          cargo: 'Validación de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+          nombre: 'Jorge Bustos Gómez',
+          cargo: 'Validación de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
