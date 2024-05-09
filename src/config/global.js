@@ -220,7 +220,7 @@ export default {
       referencia:
         'Chiavenato, I. (2009). Gestión del talento humano. McGraw-Hill. ',
       link:
-        'https://www.academia.edu/42223113/Chiavenato_I_2009_Gesti%C3%B3n_del_Talento_Humano',
+        'http://repositorio.uasb.edu.bo:8080/bitstream/54000/1143/1/Chiavenato-Talento%20humano%203ra%20ed.pdf',
     },
     {
       referencia:
@@ -242,14 +242,12 @@ export default {
     {
       referencia:
         'Norma Internacional [ISO]. (2015). <em>Sistemas de gestión ambiental — Requisitos con orientación para su uso</em> (ISO 14001). ',
-      link:
-        'https://www.teschi.edu.mx/acerca_del_tecnologico/marco_juridico/PDF/NORMA%20INTERNACIONAL%20%2014001%202015.pdf',
+      link: 'https://www.iso.org/obp/ui#iso:std:iso:14001:ed-3:v1:es',
     },
     {
       referencia:
         'Organización Internacional de Normalización [ISO]. (2018). <em>Sistemas de gestión de la seguridad y salud en el trabajo - Requisitos con orientación para uso</em> (ISO 45001). ',
-      link:
-        'https://ergosourcing.com.co/wp-content/uploads/2018/05/iso-45001-norma-Internacional.pdf',
+      link: 'https://www.iso.org/obp/ui/#iso:std:iso:45001:ed-1:v1:es',
     },
     {
       referencia: 'NormasIso.org. (s.f.). Norma ISO 30414:2018. Recuperado de',
@@ -297,7 +295,7 @@ export default {
         {
           nombre: 'Paola Andrea Quintero Aguilar',
           cargo: 'Diseñadora instruccional',
-          centro: 'Regional Bogotá, Centro de Gestión Industrial',
+          centro: 'Regional Distrito Capital, Centro de Gestión Industrial',
         },
         {
           nombre: 'Carolina Coca Salazar',
@@ -310,9 +308,16 @@ export default {
           centro: 'Regional Tolima - Centro Agropecuario La Granja',
         },
         {
-          nombre: 'Viviana Esperanza Herrera Quiñonez',
-          cargo: 'Evaluación instruccional',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          nombre: 'Gloria Lida Álzate Suarez',
+          cargo: 'Adecuadora Instruccional',
+          centro:
+            'Regional Distrito Capital. Centro de gestión de mercados, Logística y Tecnologías de la información',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Asesor Metodológico',
+          centro:
+            'Regional Distrito Capital. Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
       ],
     },
