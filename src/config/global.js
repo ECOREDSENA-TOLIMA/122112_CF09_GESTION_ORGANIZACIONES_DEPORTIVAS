@@ -213,8 +213,15 @@ export default {
   ],
   referencias: [
     {
+      referencia: 'Mondy, R. W. (2055). Administración de Recursos Humanos.',
+    },
+    {
       referencia:
         'Chang, R. (1994). Mejora continua de procesos. Ediciones Granica.',
+    },
+    {
+      referencia:
+        'Chiavenato, I. (2009). Gestión del talento humano. McGraw-Hill.',
     },
     {
       referencia:
@@ -231,7 +238,18 @@ export default {
         'Mendoza, D., López, D. y Salas, E. (2016). Planificación estratégica de recursos humanos: Efectiva forma de identificar necesidades de personal. <em>Económicas CUC</em>, 37(1), p. 61-78.',
       link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=5794127',
     },
-
+    {
+      referencia:
+        'Norma Internacional [ISO]. (2015). Sistemas de gestión ambiental — Requisitos con orientación para su uso (ISO 14001).',
+    },
+    {
+      referencia:
+        'Organización Internacional de Normalización [ISO]. (2018). Sistemas de gestión de la seguridad y salud en el trabajo – Requisitos con orientación para uso (ISO 45001).',
+    },
+    {
+      referencia: 'NormasIso.org. (s.f.). Norma ISO 30414:2018. Recuperado de.',
+      link: 'https://normasiso.org/iso-30414-2018/',
+    },
     {
       referencia:
         'Mondy, R. W. (2055). Administración de Recursos Humanos. Recuperado de.',
@@ -280,7 +298,7 @@ export default {
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de Línea de Producción',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
       ],
     },
@@ -319,6 +337,11 @@ export default {
           centro:
             'Regional Distrito Capital. Centro de gestión de mercados, Logística y Tecnologías de la información',
         },
+        {
+          nombre: 'Viviana Herrera Quiñonez',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
+        },
       ],
     },
     {
@@ -327,18 +350,18 @@ export default {
         {
           nombre: 'José Jaime Luis Tang Pinzón',
           cargo: 'Diseñador web',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
           cargo: 'Desarrollo Fullstack ',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animación y producción audiovisual',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital. Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -348,17 +371,17 @@ export default {
         {
           nombre: 'Jorge Eduardo Rueda Peña',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
           cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
         {
           nombre: 'Jorge Bustos Gómez',
           cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
       ],
     },
