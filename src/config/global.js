@@ -225,12 +225,6 @@ export default {
     },
     {
       referencia:
-        'Chiavenato, I. (2009). Gestión del talento humano. McGraw-Hill. ',
-      link:
-        'http://repositorio.uasb.edu.bo:8080/bitstream/54000/1143/1/Chiavenato-Talento%20humano%203ra%20ed.pdf',
-    },
-    {
-      referencia:
         'Código Sustantivo del Trabajo [CST]. Ley 141 de 1961. Artículos, 99, 230, 249, 306. Diciembre 16 de 1961 (Colombia).',
     },
     {
@@ -249,27 +243,6 @@ export default {
     {
       referencia: 'NormasIso.org. (s.f.). Norma ISO 30414:2018. Recuperado de.',
       link: 'https://normasiso.org/iso-30414-2018/',
-    },
-    {
-      referencia:
-        'Mondy, R. W. (2055). Administración de Recursos Humanos. Recuperado de.',
-      link:
-        'https://www.academia.edu/36515923/Mondy_administracion_de_recursos_humanos_capitulo',
-    },
-
-    {
-      referencia:
-        'Norma Internacional [ISO]. (2015). <em>Sistemas de gestión ambiental — Requisitos con orientación para su uso</em> (ISO 14001). ',
-      link: 'https://www.iso.org/obp/ui#iso:std:iso:14001:ed-3:v1:es',
-    },
-    {
-      referencia:
-        'Organización Internacional de Normalización [ISO]. (2018). <em>Sistemas de gestión de la seguridad y salud en el trabajo - Requisitos con orientación para uso</em> (ISO 45001). ',
-      link: 'https://www.iso.org/obp/ui/#iso:std:iso:45001:ed-1:v1:es',
-    },
-    {
-      referencia: 'NormasIso.org. (s.f.). Norma ISO 30414:2018. Recuperado de',
-      link: 'https://normasiso.org/iso-30414-2018/ ',
     },
     {
       referencia:
@@ -308,34 +281,34 @@ export default {
         {
           nombre: 'Tatiana Cristina Vargas',
           cargo: 'Experta temática',
-          centro: 'Regional Antioquia, Centro de servicios de salud',
+          centro: 'Regional Antioquia. Centro de Servicios de Salud',
         },
         {
           nombre: 'Paola Andrea Quintero Aguilar',
           cargo: 'Diseñadora instruccional',
-          centro: 'Regional Distrito Capital, Centro de Gestión Industrial',
+          centro: 'Regional Distrito Capital. Centro de Gestión Industrial',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Revisora Metodológica y Pedagógica',
-          centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
+          centro: 'Regional Distrito Capital. Centro de Diseño y Metrología',
         },
         {
           nombre: 'Darío González',
           cargo: 'Corrección de estilo',
-          centro: 'Regional Tolima - Centro Agropecuario La Granja',
+          centro: 'Regional Tolima. Centro Agropecuario La Granja',
         },
         {
           nombre: 'Gloria Lida Álzate Suarez',
           cargo: 'Adecuadora Instruccional',
           centro:
-            'Regional Distrito Capital. Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Regional Distrito Capital. Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
           cargo: 'Asesor Metodológico',
           centro:
-            'Regional Distrito Capital. Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Regional Distrito Capital. Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Viviana Herrera Quiñonez',
