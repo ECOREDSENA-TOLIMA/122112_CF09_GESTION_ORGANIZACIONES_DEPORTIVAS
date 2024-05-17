@@ -285,7 +285,7 @@ export default {
         },
         {
           nombre: 'Paola Andrea Quintero Aguilar',
-          cargo: 'Diseñadora instruccional',
+          cargo: 'Diseñadora Instruccional',
           centro: 'Regional Distrito Capital. Centro de Gestión Industrial',
         },
         {
@@ -295,7 +295,7 @@ export default {
         },
         {
           nombre: 'Darío González',
-          cargo: 'Corrección de estilo',
+          cargo: 'Corrección de Estilo',
           centro: 'Regional Tolima. Centro Agropecuario La Granja',
         },
         {
@@ -322,7 +322,7 @@ export default {
       autores: [
         {
           nombre: 'José Jaime Luis Tang Pinzón',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador Web',
           centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
         {
@@ -332,7 +332,7 @@ export default {
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animación y producción audiovisual',
+          cargo: 'Animación y Producción Audiovisual',
           centro:
             'Regional Distrito Capital. Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
@@ -343,17 +343,17 @@ export default {
       autores: [
         {
           nombre: 'Jorge Eduardo Rueda Peña',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          cargo: 'Evaluación de Contenidos Inclusivos y Accesibles',
           centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo: 'Validación de Recursos Educativos Digitales',
           centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
         {
           nombre: 'Jorge Bustos Gómez',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo: 'Validación de Recursos Educativos Digitales',
           centro: 'Regional Tolima. Centro de Comercio y Servicios',
         },
       ],
