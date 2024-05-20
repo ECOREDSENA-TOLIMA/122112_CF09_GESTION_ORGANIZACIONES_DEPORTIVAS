@@ -299,7 +299,7 @@ export default {
           centro: 'Regional Tolima. Centro Agropecuario La Granja',
         },
         {
-          nombre: 'Gloria Lida Álzate Suarez',
+          nombre: 'Gloria Lida Alzate Suarez',
           cargo: 'Adecuadora Instruccional',
           centro:
             'Regional Distrito Capital. Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
